@@ -28,9 +28,13 @@ Each phase is designed to ensure transparency, accountability, and continuous de
 - **Product Manager (PdM)** - Defines outcomes, prioritizes the backlog, and measures success against customer and business value
 - **Developers** - Implement features, collaborate on design and testability, and maintain high-quality code
 - **QA/Testing** - Validate quality, ensure acceptance criteria are met, and perform both automated and manual testing
+- **Scrum Master** - Facilitates agile processes, removes impediments, and coaches the team on agile practices
+- **Release Manager** - Coordinates and orchestrates software releases across teams and environments
+- **Business Analyst** - Bridges business needs and technical solutions through requirements analysis and documentation
+- **UX Designer** - Creates intuitive, accessible user experiences through research, design, and validation
 - **Stakeholders** - Provide inputs, approvals, and represent business interests throughout the project
 
-Detailed responsibilities and goals for each role are documented to ensure ownership and accountability.
+Detailed responsibilities, goals, and interactions for each role are documented in the [Roles and Personas](octoacme-roles-and-personas.md) guide. The [Cross-Role Responsibility Matrix](octoacme-cross-role-responsibility-matrix.md) clarifies accountability and handoffs between roles.
 
 ## Communication Strategies
 
@@ -94,6 +98,7 @@ Pre-release requirements include:
 
 Explore our detailed process documentation:
 
+### Core Process Documents
 - **[Project Management Overview](octoacme-project-management-overview.md)** - Introduction to our approach, principles, and key artifacts
 - **[Project Initiation](octoacme-project-initiation.md)** - How to define and kick off new projects
 - **[Project Planning](octoacme-project-planning.md)** - Planning processes, templates, and best practices
@@ -102,6 +107,10 @@ Explore our detailed process documentation:
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** - Risk identification, stakeholder communication, and escalation procedures
 - **[Release and Deployment](octoacme-release-and-deployment.md)** - Release types, deployment checklists, and rollback procedures
 - **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - Learning from experience and driving improvements
+
+### Team Collaboration & Role Clarity
+- **[Cross-Role Responsibility Matrix](octoacme-cross-role-responsibility-matrix.md)** - RACI matrix defining responsibilities and handoffs across all roles
+- **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** - Role-specific onboarding guides for new team members
 
 ## Getting Started
 
